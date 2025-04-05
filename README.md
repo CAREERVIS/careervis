@@ -27,7 +27,7 @@
 </head>
 <body>
   <header>
-    <h1>MorSuccess</h1>
+    <h1>Careervis</h1>
     <nav>
       <a href="#education">Education</a>
       <a href="#jobs">Job Consultancy</a>
@@ -56,8 +56,8 @@
   </section>
 
   <footer id="contact">
-    <p>Contact us at <strong>info@morsuccess.in</strong> | Follow us on Instagram & Facebook: @morsuccess.in</p>
-    <p>&copy; 2025 MorSuccess. All rights reserved.</p>
+    <p>Contact us at <strong>info@Careervis.in</strong> | Follow us on Instagram & Facebook: @Careerviss.in</p>
+    <p>&copy; 2025 Careervis. All rights reserved.</p>
   </footer>
 </body>
 </html>
